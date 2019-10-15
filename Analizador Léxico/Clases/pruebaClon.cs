@@ -8,5 +8,6 @@ namespace Analizador_Léxico.Clases
 {
     class pruebaClon
     {
+        int a;
     }
 }
