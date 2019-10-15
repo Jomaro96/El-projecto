@@ -1,0 +1,26 @@
+CAPTURAR num
+Res = Calcfact ( num )
+IMPRIMIR Res
+
+SI n == 0
+PASAR 1
+ENCAMBIO
+PARA X = n HASTA n > 1 SUMA X = X - 1
+R = R * X
+FINPARA
+PASAR R
+
+DESKTOP-IPPMSF0\SQLEXPRESS
+LAPTOP-J9EM79OI\SQLEXPRESS
+
+Res = Calc_fact ( num ) 
+ID1 OPA6 ID2 PAR2 ID3 PAR1 <<<<
+
+**Va a checar tiempos 
+**Tiene que ser un solo boton el que haga todo
+Analizar tokens
+**Mismo lexico
+Jueves para acabar
+Introduccion + Turing viernes
+
+Nivelaciones 

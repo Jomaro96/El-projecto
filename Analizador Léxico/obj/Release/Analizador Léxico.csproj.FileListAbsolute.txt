@@ -1,0 +1,13 @@
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\bin\Release\Analizador Léxico.exe.config
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\bin\Release\Analizador Léxico.exe
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\bin\Release\Analizador Léxico.pdb
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador_Léxico.Form1.resources
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador_Léxico.Properties.Resources.resources
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador Léxico.csproj.GenerateResource.cache
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador Léxico.csproj.CopyComplete
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador Léxico.exe
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\obj\Release\Analizador Léxico.pdb
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\bin\Release\Lenguaje.dll
+C:\Users\siul_\source\repos\AnalizadorLexico\Analizador Léxico\bin\Release\Lenguaje.pdb

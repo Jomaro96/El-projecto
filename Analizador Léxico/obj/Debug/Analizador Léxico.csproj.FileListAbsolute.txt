@@ -1,0 +1,80 @@
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csprojAssemblyReference.cache
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.cache
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+C:\Users\Pato\Downloads\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csprojAssemblyReference.cache
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.cache
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+C:\Users\Jomar\Desktop\Caca\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+F:\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+F:\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+F:\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.cache
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+C:\Users\USER\Desktop\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+F:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csprojResolveAssemblyReference.cache
+E:\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+E:\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+E:\Analizador-Léxico\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csprojResolveAssemblyReference.cache
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.cache
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+E:\Analizador-Léxico\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+C:\Users\arman\Documents\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+C:\Users\arman\Documents\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+C:\Users\arman\Documents\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csprojAssemblyReference.cache
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.cache
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+C:\Users\arman\Documents\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+C:\Users\USER\Desktop\ELtec\7mo Semestre\Thelma II\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador_Léxico.Form1.resources
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador_Léxico.Properties.Resources.resources
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.exe
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\obj\Debug\Analizador Léxico.pdb
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.exe.config
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.exe
+C:\Users\Franco\Desktop\9no\LyA2\thelma\thelma\Analizador Léxico\bin\Debug\Analizador Léxico.pdb
